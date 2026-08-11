@@ -2,83 +2,83 @@
   "photos": [
     {
       "id": 1,
-      "file": "1.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/1.jpeg"
+      "file": "1.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/1.jpg"
     },
     {
       "id": 2,
-      "file": "2.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/2.jpeg"
+      "file": "2.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/2.jpg"
     },
     {
       "id": 3,
-      "file": "3.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/3.jpeg"
+      "file": "3.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/3.jpg"
     },
     {
       "id": 4,
-      "file": "4.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/4.jpeg"
+      "file": "4.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/4.jpg"
     },
     {
       "id": 5,
-      "file": "5.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/5.jpeg"
+      "file": "5.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/5.jpg"
     },
     {
       "id": 6,
-      "file": "6.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/6.jpeg"
+      "file": "6.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/6.jpg"
     },
     {
       "id": 7,
-      "file": "7.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/7.jpeg"
+      "file": "7.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/7.jpg"
     },
     {
       "id": 8,
-      "file": "8.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/8.jpeg"
+      "file": "8.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/8.jpg"
     },
     {
       "id": 9,
-      "file": "9.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/9.jpeg"
+      "file": "9.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/9.jpg"
     },
     {
       "id": 10,
-      "file": "10.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/10.jpeg"
+      "file": "10.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/10.jpg"
     },
     {
       "id": 11,
-      "file": "11.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/11.jpeg"
+      "file": "11.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/11.jpg"
     },
     {
       "id": 12,
-      "file": "12.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/12.jpeg"
+      "file": "12.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/12.jpg"
     },
     {
       "id": 13,
-      "file": "13.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/13.jpeg"
+      "file": "13.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/13.jpg"
     },
     {
       "id": 14,
-      "file": "14.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/14.jpeg"
+      "file": "14.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/14.jpg"
     },
     {
       "id": 15,
-      "file": "15.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/15.jpeg"
+      "file": "15.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/15.jpg"
     },
     {
       "id": 16,
-      "file": "16.jpeg",
-      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos/16.jpeg"
+      "file": "16.jpg",
+      "url": "https://raw.githubusercontent.com/AirysDark/KittyAI/refs/heads/main/photos/16.jpg"
     }
   ]
 }

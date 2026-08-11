@@ -1,34 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>KittyAI</title>
-    <link rel="stylesheet" href="style.css">
+<title>KittyAI</title>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<div class="app">
+<h1>🐱 KittyAI</h1>
 
-    <h1>🐱 KittyAI</h1>
+<button onclick="getPhoto()">
+Send me a kitty photo
+</button>
 
-    <div id="chat">
-        <div class="message bot">
-            💕 Hi! I'm KittyAI. Ask me for a kitty photo.
-        </div>
-    </div>
-
-    <div class="input-area">
-        <input 
-            id="userInput"
-            placeholder="Ask for a kitty photo..."
-        >
-
-        <button onclick="sendMessage()">
-            Send
-        </button>
-    </div>
-
-</div>
+<div id="photo"></div>
 
 <script src="app.js"></script>
 

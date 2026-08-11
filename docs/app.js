@@ -1,63 +1,19 @@
-async function sendMessage(){
+async function getPhoto(){
 
-    const input = document.getElementById("userInput");
-    const chat = document.getElementById("chat");
+const response = await fetch(
+"https://raw.githubusercontent.com/AirysDark/KittyAI/main/photos.json"
+);
 
-    const text = input.value;
+const data = await response.json();
 
-    if(!text) return;
+const photo =
+data.photos[
+Math.floor(Math.random()*data.photos.length)
+];
 
+document.getElementById("photo").innerHTML =
+`
+<img src="${photo.url}" width="400">
+`;
 
-    chat.innerHTML += `
-        <div class="message user">
-            ${text}
-        </div>
-    `;
-
-    input.value = "";
-
-
-    if(
-        text.toLowerCase().includes("photo") ||
-        text.toLowerCase().includes("kitty") ||
-        text.toLowerCase().includes("cat")
-    ){
-
-        chat.innerHTML += `
-        <div class="message bot">
-            🐱💕 Here you go!
-        </div>
-        `;
-
-
-        const response = await fetch("photos.json");
-
-        const data = await response.json();
-
-
-        const photo =
-        data.photos[
-            Math.floor(Math.random()*data.photos.length)
-        ];
-
-
-        chat.innerHTML += `
-        <div class="message bot">
-            <img src="${photo.url}">
-        </div>
-        `;
-
-    }
-    else {
-
-        chat.innerHTML += `
-        <div class="message bot">
-            🐱 I can send you kitty photos!
-        </div>
-        `;
-
-    }
-
-
-    chat.scrollTop = chat.scrollHeight;
 }
